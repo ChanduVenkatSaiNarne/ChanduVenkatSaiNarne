@@ -1,9 +1,9 @@
 # Chandu Venkat Sai Narne
 
 **Medical AI & Trustworthy Machine Learning Researcher**
-MSc Artificial Intelligence student, University of Bedfordshire (UK) — expected [Month Year]
+MSc Computer Science with Project Management, University of Bedfordshire (UK)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin-id])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanduvenkatsainarne/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:chanduvenkatsainarne@gmail.com)
 
 I build reproducible AI methods for clinical problems, focusing on **brain MRI analysis** and **ECG-based cardiovascular risk prediction**. I care about careful validation, calibration, uncertainty and **fairness across patient groups**, so that models work for everyone, not just on benchmarks.
