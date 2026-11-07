@@ -1,7 +1,7 @@
 # Chandu Venkat Sai Narne
 
 **Medical AI & Trustworthy Machine Learning Researcher**
-MSc Computer Science with Project Management, University of Bedfordshire (UK)
+MSc Computer Science with Project Management, University of Bedfordshire (UK) — expected September 2028
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanduvenkatsainarne/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:chanduvenkatsainarne@gmail.com)
